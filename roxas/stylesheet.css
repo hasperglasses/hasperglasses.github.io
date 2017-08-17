@@ -1,0 +1,49 @@
+body {
+	background-image: url("pics/mario.jpg");
+	background-size: 1920px 1080px;
+	background-repeat: no-repeat;
+}
+
+p.welcome {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+#header {
+	font-size: 40px;
+	margin-left: 40px;
+	color: white;
+}
+
+#me {
+	height: 500px;
+	width: 500px;
+	border-style: double;
+	border-width: 10px;
+}
+
+#meh {
+	font-style: italic;
+}
+
+div.pic {
+	float: left;
+	margin-right: 30px;
+	margin-left: 50px;
+}
+
+div.details {
+	font-size: 40px;
+	color: white;
+}
+
+div.about {
+	clear: both;
+}
+
+img.likes {
+	height: 300px;
+	width: 350px;
+	margin-left: 30px;
+}
